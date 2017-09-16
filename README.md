@@ -1,0 +1,2 @@
+# Bus-Service-Tracking-using-GPS-TRACK-
+This project aims to develop a fully functioning Automated Bus Service Tracking using GPS – TRACK for a leading State Transport Corporation (SRTC). The proposed system will provide a real time tracking of all the bus services plying on various routes to significantly enhance customer service by providing a real time view of the required bus service to customers and ensuring “on-time” service by managing routes in real time.
